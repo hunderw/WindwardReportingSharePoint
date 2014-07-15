@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="8b073905-65bf-4da2-9b51-266568c935eb" solutionId="8b073905-65bf-4da2-9b51-266568c935eb" resetWebServer="false" sharePointProductVersion="15.0" name="ProgrammaticReportGen" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="a48ce393-fbc7-4685-8c9e-88f0143e4fe8" />
+  </features>
+</package>

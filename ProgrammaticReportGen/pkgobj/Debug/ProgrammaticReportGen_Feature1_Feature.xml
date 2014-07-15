@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="139ce286-c9d0-4e4e-bc95-5c46467d2ece" Scope="Site" Title="ProgrammaticReportGen Feature1">
+  <ElementManifests>
+    <ElementManifest Location="RunReport\Elements.xml" />
+    <ElementFile Location="RunReport\RunReport.webpart" />
+  </ElementManifests>
+</Feature>
